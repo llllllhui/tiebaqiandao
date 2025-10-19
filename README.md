@@ -51,7 +51,7 @@
 2. 点击 "New repository secret" 按钮
 3. 添加 Secret：
    - 名称：`BDUSS`
-   - 值：您的百度 BDUSS 值
+   - 值：您的百度 BDUSS 
 
 ### ▶️ 4. 启用 GitHub Actions
 
